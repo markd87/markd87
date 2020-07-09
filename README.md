@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm a data scientist working at Amey Consulting, using data science in the infrastructure sector.
 
-My background is in Physics studying astrophyics and condensed matter physics.
+My background is in Physics, I studied Astrophyics & Cosmology (MSc) and Condensed Matter Physics (PhD).
 
 - I work primarily with Python.
 - I enjoy web development technology as well using ReactJS.
-- I'm currently interested in and learning deep learning methods and ideas using PyTorch.
+- I'm learning deep learning methods and ideas using PyTorch.
 
 My personal website can be found here: http://markd87.github.io/
