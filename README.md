@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data scientist working at Amey Consulting, using data science in the infrastructure sector.
+
+I work primarily with Python. 
+I enjoy web development as well using ReactJS.
+I'm currently interested in and learning deep learning methods and ideas using PyTorch.
+
+My personal website can be found here: http://markd87.github.io/
