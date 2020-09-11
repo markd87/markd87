@@ -19,8 +19,6 @@ I'm a data scientist working at Amey Consulting, using data science in the infra
 
 My background is in Physics, I studied Astrophyics & Cosmology (MSc) and Condensed Matter Physics (PhD).
 
-- I work primarily with Python.
-- I lean deep learning methods and ideas using PyTorch.
-- I do development using ReactJS.
+I use *python* for software and data science / machine learning projects, and *React* or *Next.js* for web development projects.
 
 My personal website can be found here: http://markd87.github.io/
